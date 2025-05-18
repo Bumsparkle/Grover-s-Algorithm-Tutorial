@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+qiskit-ibm-provider  # optional
+matplotlib
+numpy
+ipython
+notebook
