@@ -1,6 +1,7 @@
 # FLIQ 2025 Algorithm Challenge Submission
 # Tutorial on Grover's Algorithm - Quantum Searching with Qiskit
 Written by Felix Arkle and Sebastian Gotto
+
 Outcome 2nd Place 2025 FLIQ
 
 ## Project Overview
